@@ -28,5 +28,3 @@ This backend is powered by **Phi** agents running on **Groq’s LLM (LLaMA 3.3 7
 
 ---
 
-## 🧾 Key Files
-
